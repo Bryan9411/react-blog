@@ -12,7 +12,7 @@
 
 * 使用 React router 規劃路由
 * 使用 Styled-components 撰寫 html 與 css
-
+* 使用 Fetch 串接 API
 ## 功能描述
 
 * 登入與登出機制
