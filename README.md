@@ -1,6 +1,6 @@
 # 使用 React 與 Fetch 串接的部落格
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [DEMO](https://bryan9411.github.io/react-blog/#/).
 
 ## Available Scripts
 
