@@ -1,10 +1,11 @@
 # 使用 React 與 Fetch 串接的部落格
 
- [DEMO](https://bryan9411.github.io/react-blog/#/).
+ 部落格[DEMO](https://bryan9411.github.io/react-blog/#/)
 
-## Available Scripts
+## 目的
 
-In the project directory, you can run:
+* 學習 React hook 應用
+* 搭配 Fetch 串接 API
 
 ### `yarn start`
 
