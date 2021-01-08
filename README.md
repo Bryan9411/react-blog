@@ -1,6 +1,6 @@
 # 使用 React 與 Fetch 串接的部落格
 
- 部落格[DEMO](https://bryan9411.github.io/react-blog/#/)
+ 部落格 [DEMO](https://bryan9411.github.io/react-blog/#/)
 
 ## 目的
 
