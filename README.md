@@ -1,7 +1,7 @@
 # React-Blog
  一個串接 Lidemy API 的部落格。
  
- 部落格 [DEMO](https://bryan9411.github.io/react-blog/#/)
+ [DEMO](https://bryan9411.github.io/react-blog/#/)
 
 ## 技術
 
