@@ -2,13 +2,7 @@
 
  部落格 [DEMO](https://bryan9411.github.io/react-blog/#/)
 
-## 目的
-
-* 學習 React hook 應用
-* React router 規劃
-* 搭配 Fetch 串接 API
-
-## 前端
+## 技術
 
 * 使用 React router 規劃路由
 * 使用 Styled-components 撰寫 html 與 css
