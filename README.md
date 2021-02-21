@@ -5,12 +5,12 @@
 
 ## 技術
 
-* 使用 React router 規劃路由
-* 使用 Styled-components 撰寫 html 與 css
-* 使用 Fetch 串接 API
+* React router 規劃路由
+* Styled-components 撰寫 html 與 css
+* Fetch 串接 API
 ## 功能描述
 
-* 登入與登出機制 (由於資安問題，再"創建帳號"與"登入帳號"時，密碼一律自動修改成Lidemy)
+* 登入與登出機制 (密碼預設 Lidemy)
 * 首頁觀看全部文章
 * 單一頁面文章
 * 分頁功能
