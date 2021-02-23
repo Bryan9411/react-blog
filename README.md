@@ -1,5 +1,5 @@
-# React-Blog
- 一個串接 Lidemy API 的部落格。
+# SPA 部落格
+ 使用 React 串接 API 製作部落格
  
  [DEMO](https://bryan9411.github.io/react-blog/#/)
 
