@@ -6,6 +6,7 @@
 ## 技術
 
 * React router 規劃路由
+* JS 與後端 API 溝通使畫面與資料前後分離
 * Styled-components 撰寫 html 與 css
 * Fetch 串接 API
 ## 功能描述
